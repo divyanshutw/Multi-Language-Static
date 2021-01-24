@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multi Language</string>
+    <string name="change_language">भाषा बदलो</string>
+    <string name="ok">ठीक</string>
+    <string name="android_development_is_awesome">Android का विकास कमाल का है</string>
+</resources>
